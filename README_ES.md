@@ -1,4 +1,4 @@
-<h1 align="center">Order Summary Component</h1>
+<h1 align="center">Componente de Resumen de Pedido</h1>
 
 <p align="left">
   <a href="README.md" target="_blank">
